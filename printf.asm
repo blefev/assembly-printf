@@ -1,5 +1,3 @@
-%include "/usr/share/csc314/asm_io.inc"
-
 %define	SYS_write 4
 %define STDOUT    1 
 
